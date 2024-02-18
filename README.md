@@ -1,2 +1,2 @@
 # LearningGit
-This repository is made with the purpose to learn git and GitHub to collaborate with friends and learn things.
+This repository is made with the purpose to learn Git and GitHub and to collaborate with users to learn things easily.
